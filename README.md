@@ -1,0 +1,5 @@
+# Destroyer Discord Terror
+
+DISCLAIMER! : THIS REPO IS REQ EDUCATION PURPOSE ONLY
+
+ADD USER TOKENS IN tokens.txt AND CHANNEL ID IN channel-id.txt
